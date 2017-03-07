@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/aya/Downloads/MobileComputingProject/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/aya/Downloads/MobileComputingProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_f034b2d15fa5cc00d0da9900c08ab1c6213ed3aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aya/Downloads/MobileComputingProject/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/aya/Downloads/MobileComputingProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_fdf8c15ee59a0425a7871b8fd6eb2389f8108deb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aya/Downloads/MobileComputingProject/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/aya/Downloads/MobileComputingProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_69d43f4eca25c1971009b552274df1be0d89d17a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aya/Downloads/MobileComputingProject/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/aya/Downloads/MobileComputingProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_bd9605a7985296128f353257e88961732645ba28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aya/Downloads/MobileComputingProject/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c837ca92102281904b19312794ad79b6e3249f5e">
+        <dex dex="/home/aya/Downloads/MobileComputingProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fc7710c007b62beb4e26bdafe520f68195bbf3e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aya/Downloads/MobileComputingProject/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/aya/Downloads/MobileComputingProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_bca55c56939c214bb0f18b24d4196a67d5d41c3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aya/Downloads/MobileComputingProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/aya/Downloads/MobileComputingProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_71fe6a34f23738a51346bd3e4868d2f4c6e45047/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aya/Downloads/MobileComputingProject/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9b7bd7ed845b46bd54bd685fe2a07ed9cdb86a90">
+        <dex dex="/home/aya/Downloads/MobileComputingProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7f3c02d5d3396978fad9133517bb7ec7f07e1e68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aya/Downloads/MobileComputingProject/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/aya/Downloads/MobileComputingProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_c7d102edd44b3cb11b8a467b0c77f20a16806e7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aya/Downloads/MobileComputingProject/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/home/aya/Downloads/MobileComputingProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.1_0614cb0e0b4c535ed1514230fc3c8be1a5265016/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aya/Downloads/MobileComputingProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/aya/Downloads/MobileComputingProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_8989630ec0130cacc1874078ccfb812b08635a06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aya/Downloads/MobileComputingProject/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/home/aya/Downloads/MobileComputingProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.1_7a92eb14a6c17ed97136829196a964a96d3c03ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aya/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/aya/Downloads/MobileComputingProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_545ac401b3f228a14b96983a9d141023ad665c89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aya/Downloads/MobileComputingProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/aya/Downloads/MobileComputingProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_2494070100d96c95ed11fb1924a68aa4d48317a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aya/Downloads/MobileComputingProject/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/home/aya/Downloads/MobileComputingProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.1_22ccba644e07985b7f8dbe2b906acf7bcb380055/classes.dex" />
+    </item>
+
+</items>
