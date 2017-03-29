@@ -40,17 +40,17 @@ public class ArticleAdapter extends RecyclerView.Adapter<ArticleAdapter.Articles
 
     @Override
     public int getItemCount() {
-        return 0;
+        return (articles == null) ? 0 : articles.size();
     } // get the list ize
 
-    public class ArticlesViewHolder extends RecyclerView.ViewHolder{
-        ImageView article_image;
+    public static class ArticlesViewHolder extends RecyclerView.ViewHolder{
+//        ImageView article_image;
         TextView article_title;
         TextView article_abstract;
 
         public ArticlesViewHolder(View itemView) {
             super(itemView);
-            article_image = (ImageView) itemView.findViewById(R.id.article_image);
+//            article_image = (ImageView) itemView.findViewById(R.id.article_image);
             article_title = (TextView) itemView.findViewById(R.id.article_title);
             article_abstract = (TextView) itemView.findViewById(R.id.article_abstract);
         }

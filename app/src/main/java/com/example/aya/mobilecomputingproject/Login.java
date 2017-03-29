@@ -1,6 +1,7 @@
 package com.example.aya.mobilecomputingproject;
 
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -16,6 +17,8 @@ public class Login extends AppCompatActivity {
     private EditText username;
     private EditText password;
     private Button login;
+    private SharedPreferences sharedPreferences;
+    private SharedPreferences.Editor editor;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -37,6 +40,10 @@ public class Login extends AppCompatActivity {
                 else if (password.getText().toString().matches(""))
                     Toast.makeText(Login.this, "Please enter your password", Toast.LENGTH_LONG).show();
                 else{
+                    sharedPreferences = getSharedPreferences("app", MODE_PRIVATE);
+                    editor = sharedPreferences.edit();
+                    editor.putBoolean("LoggedIn", true);
+                    editor.commit();
                     Intent intent = new Intent(Login.this, Home.class);
                     startActivity(intent);
                 }

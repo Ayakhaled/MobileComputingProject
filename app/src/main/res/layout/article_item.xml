@@ -1,47 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:layout_width="wrap_content"
+    android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:layout_margin="15dp">
+    android:orientation="horizontal"
+    android:padding="5dp"
+    android:layout_marginBottom="5dp"
+    android:elevation="4dp"
+    android:background="#fff">
+
+    <ImageView
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="70dp"
+        android:id="@+id/article_image"
+        android:src="@drawable/img"/>
 
     <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_margin="10dp"
-        android:orientation="horizontal">
+        android:layout_width="0dp"
+        android:layout_weight="3"
+        android:layout_marginLeft="2dp"
+        android:layout_height="70dp"
+        android:orientation="vertical">
 
-        <ImageView
-            android:layout_width="0dp"
-            android:layout_weight="1"
-            android:layout_height="70dp"
-            android:id="@+id/article_image"
-            android:src="@drawable/img"/>
-
-        <LinearLayout
-            android:layout_width="0dp"
-            android:layout_weight="3"
-            android:layout_height="70dp"
-            android:layout_marginLeft="2dp"
-            android:orientation="vertical">
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/article_title"
-                android:textStyle="bold"
-                android:textSize="25dp"
-                android:text="Title"/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/article_abstract"
-                android:text="here's teh abstract of the article."/>
-
-
-        </LinearLayout>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/article_title"
+            android:textStyle="bold"
+            android:text="Title"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/article_abstract"
+            android:text="here's teh abstract of the article."/>
 
 
     </LinearLayout>
 
-</android.support.v7.widget.CardView>
+
+</LinearLayout>
+
+<!--</android.support.v7.widget.CardView>
+-->
